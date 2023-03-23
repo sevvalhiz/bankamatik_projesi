@@ -1,3 +1,4 @@
+#bankamatik projesi
 SevvalHesap= {
     'ad': 'Şevval Hız',
     'hesapNo': '123456',
